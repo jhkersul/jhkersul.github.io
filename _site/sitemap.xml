@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/2016/welcome-to-jekyll/</loc>
+      <loc>https://kersul.dev/2016/welcome-to-jekyll/</loc>
       
         <lastmod>2016-01-08T13:04:23-02:00</lastmod>
       
@@ -21,9 +21,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/feed.xml</loc>
+      <loc>https://kersul.dev/feed.xml</loc>
       
-        <lastmod>2019-03-31T15:46:52-03:00</lastmod>
+        <lastmod>2019-03-31T15:49:18-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -36,9 +36,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/humans.txt</loc>
+      <loc>https://kersul.dev/humans.txt</loc>
       
-        <lastmod>2019-03-31T15:46:52-03:00</lastmod>
+        <lastmod>2019-03-31T15:49:18-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -55,9 +55,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/css/main.css</loc>
+      <loc>https://kersul.dev/css/main.css</loc>
       
-        <lastmod>2019-03-31T15:46:52-03:00</lastmod>
+        <lastmod>2019-03-31T15:49:18-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

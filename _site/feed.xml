@@ -3,10 +3,10 @@
   <channel>
     <title>J. H. Kersul</title>
     <description>Hello! I'm Kersul, a brazilian Software Engineer :)</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 31 Mar 2019 15:46:52 -0300</pubDate>
-    <lastBuildDate>Sun, 31 Mar 2019 15:46:52 -0300</lastBuildDate>
+    <link>https://kersul.dev/</link>
+    <atom:link href="https://kersul.dev/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 31 Mar 2019 15:49:18 -0300</pubDate>
+    <lastBuildDate>Sun, 31 Mar 2019 15:49:18 -0300</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Fri, 08 Jan 2016 13:04:23 -0200</pubDate>
-        <link>http://localhost:4000/2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/welcome-to-jekyll/</guid>
+        <link>https://kersul.dev/2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">https://kersul.dev/2016/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         
