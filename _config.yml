@@ -1,0 +1,43 @@
+# Site settings
+title: J. H. Kersul
+description: "Hello! I\'m Kersul, a brazilian Software Engineer :)"
+url: 'https://kersul.dev'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'João Henrique Kersul'
+  email: joaohkfaria@gmail.com
+  twitter_username: jhkersul
+  facebook_username: jhkersul
+  github_username:  jhkersul
+  linkedin_username:  kersul
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
